@@ -1,0 +1,12 @@
+# Obsidian vault config stays local; this is a public website repo
+.obsidian/
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Claude / Claudian local state
+.claudian/
+.claude/settings.local.json
